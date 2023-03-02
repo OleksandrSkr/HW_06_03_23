@@ -56,5 +56,3 @@ else:
 database.append(user)
 print(database)
 
-
-
