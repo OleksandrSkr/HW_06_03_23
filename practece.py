@@ -53,7 +53,8 @@ if (len(user["name"])) < 5 or (len(user["password"])) > 10:
 else:
     print("Thank you, you have successfully registered")
 
-
-
 database.append(user)
 print(database)
+
+
+
